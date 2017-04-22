@@ -21,7 +21,7 @@ public class HrCatalogApplication {
         return new CommandLineRunner() {
             @Override
             public void run(String... strings) throws Exception {
-                Group group = new Group("Teasdasdasasdsdst");
+                Group group = new Group("Teasdasdasahgsdsdst");
                 Contact contact;
 
                 contactService.addGroup(group);
