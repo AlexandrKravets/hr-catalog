@@ -7,4 +7,5 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @EnableJpaRepositories(basePackages = "edu.alex.model.repository")
 public class ApplicationConfiguration {
 
+    //смсмсмсмсмбвлоавлаовлао
 }
